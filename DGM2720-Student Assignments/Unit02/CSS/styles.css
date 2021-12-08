@@ -1,0 +1,47 @@
+header {
+    max-width: 760px;
+    margin: 0 auto;
+    background-image: url("https://host-76-74-29-6.contentfabric.io/q/iq__2SSJogwLNmiVhgRRpeF5uetyoG8b/meta/public/asset_metadata/images/title_detail_hero_desktop/default?authorization=eyJxc3BhY2VfaWQiOiJpc3BjMlJVb1JlOWVSMnYzM0hBUlFVVlNwMXJZWHp3MSIsImFkZHIiOiIweGZhNTM5Yzg0ODY5MWVjMmYwN2U3ZWFkNDBkZmJkN2RlZTZjZTZlMDQiLCJxbGliX2lkIjoiaWxpYjM2OTFMZWNEaDl5TnlxS0hwd1h0bWVqOGtTNHYifQ%3D%3D.RVMyNTZLX1A4TEx2VGRUV0pvZnppNlJoN0ExQ2g1aWZaUnVoY2RrWG5UWExGUkFWWFFXZmlDVDc2c2hQR3dTSkVFWXg3MmNoSDNKc3RGcFIzNkpyM2laUmoydlZnSGFq&header-referer=https%3A%2F%2Fwww.google.com%2F&redirected=true");
+   height:360px;
+width: 800px;
+background-size:contain;
+}
+
+.objectives {
+    border: 1px solid white;
+    margin: 0 auto;
+    max-width: 760px;
+    
+    text-align:justify;
+}
+
+.slogan {
+
+    color:black;
+}
+
+h1{
+    color:black ;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 3px;
+    
+    
+ }
+ h2{
+     color:burlywood;
+     text-align:center;
+     margin: top 2px;
+    
+    max-width: 760px;
+ }
+
+ 
+
+footer{
+    background-color:bisque;
+    color: black;
+    text-align: center;
+    border: 1px solid;
+
+}

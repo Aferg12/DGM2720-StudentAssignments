@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset-"UTF-8" />
+<title> Inspector Clouseau </title>
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onresize="reDisplay()">
+    <header>
+<h1></h1>
+<h2 class="slogan"></h2>
+    </header>
+    <main>
+        <h1> Inspector Clouseau</h1>
+<h2 class="objectives"> What I learned </h2>
+<ul class="objectives">
+<li> Display Window Properties</li>
+<li> Display Document Properties</li>
+    </ul>
+<br>
+    <h2 class="objectives"> Window Properties</h2>
+    <p id="myWindow" class="objectives"></p>
+    <p id="urlText" class="objectives">
+        URL:
+        <span id="url">URL goes here</span>
+      </p>
+<br>
+    <h2 class="objectives"> Document Properties</h2>
+    <p id="myDocument"></p>
+    <script> var str = document.title;
+    document.write("Title: " +str);</script>
+    
+</main>
+
+<script type="text/javascript" src="JavaScript/main.js"></script>
+<footer>
+<p> Assignment for DGM2760 by Abigail Fergus</p>
+</footer>
+
+</body>
+
+
+</html>
